@@ -1,0 +1,6 @@
+names:
+- license
+nc: 1
+path: C:\Users\fabri\Escritorio\GITHUB\License_plate_Detection\kaggle\working\car-plate-detection
+train: train/images
+val: val/images
