@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>cars-br</folder>
+	<filename>img_000001.jpg</filename>
+	<path>C:\Users\fabri\Escritorio\DATASET_CAPSTONE\Brasil dataset\images\cars-br\img_000001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>438</ymin>
+			<xmax>687</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

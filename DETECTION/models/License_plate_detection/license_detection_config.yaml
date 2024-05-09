@@ -1,0 +1,6 @@
+names:
+- license
+nc: 1
+path: C:\Users\fabri\Escritorio\ALPR\models\License_plate_detection\data
+train: train/images
+val: val/images
