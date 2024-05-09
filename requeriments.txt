@@ -1,0 +1,5 @@
+opencv-python
+Flask
+mysql-connector-python
+numpy
+ultralytics
